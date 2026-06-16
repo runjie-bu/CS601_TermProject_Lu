@@ -64,6 +64,3 @@ npm run dev
 npm run build
 ```
 
-## Notes
-
-Do not submit the `node_modules` folder. Upload the project source files to a public GitHub repository and submit the repository link for the final project.
