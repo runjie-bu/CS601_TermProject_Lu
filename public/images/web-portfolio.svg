@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio website illustration</title>
+  <desc id="desc">A browser window with layout blocks representing a responsive portfolio.</desc>
+  <rect width="720" height="420" rx="32" fill="#eef4ff"/>
+  <rect x="72" y="58" width="576" height="304" rx="22" fill="#ffffff" stroke="#c7d2fe" stroke-width="4"/>
+  <rect x="72" y="58" width="576" height="58" rx="22" fill="#1e3a8a"/>
+  <circle cx="116" cy="87" r="8" fill="#f87171"/>
+  <circle cx="144" cy="87" r="8" fill="#facc15"/>
+  <circle cx="172" cy="87" r="8" fill="#34d399"/>
+  <rect x="112" y="154" width="178" height="164" rx="18" fill="#dbeafe"/>
+  <rect x="326" y="154" width="274" height="34" rx="17" fill="#2563eb"/>
+  <rect x="326" y="212" width="248" height="24" rx="12" fill="#93c5fd"/>
+  <rect x="326" y="254" width="210" height="24" rx="12" fill="#bfdbfe"/>
+  <rect x="326" y="300" width="118" height="40" rx="20" fill="#14b8a6"/>
+</svg>

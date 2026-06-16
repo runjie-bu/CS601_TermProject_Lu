@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Game research illustration</title>
+  <desc id="desc">Game level blocks connected to algorithm nodes.</desc>
+  <rect width="720" height="420" rx="32" fill="#fff7ed"/>
+  <rect x="84" y="74" width="552" height="272" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="4"/>
+  <path d="M128 292 L200 220 L278 258 L360 180 L452 236 L548 136" fill="none" stroke="#f59e0b" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="200" cy="220" r="24" fill="#ffedd5" stroke="#fb923c" stroke-width="5"/>
+  <circle cx="360" cy="180" r="24" fill="#ffedd5" stroke="#fb923c" stroke-width="5"/>
+  <circle cx="548" cy="136" r="24" fill="#ffedd5" stroke="#fb923c" stroke-width="5"/>
+  <rect x="138" y="118" width="128" height="46" rx="16" fill="#fed7aa"/>
+  <rect x="296" y="284" width="128" height="46" rx="16" fill="#fef3c7"/>
+  <rect x="454" y="262" width="128" height="46" rx="16" fill="#fde68a"/>
+  <text x="164" y="148" fill="#9a3412" font-family="Arial" font-size="22" font-weight="700">Levels</text>
+  <text x="315" y="314" fill="#92400e" font-family="Arial" font-size="22" font-weight="700">PCG</text>
+  <text x="488" y="292" fill="#92400e" font-family="Arial" font-size="22" font-weight="700">ML</text>
+</svg>
